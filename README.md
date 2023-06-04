@@ -23,3 +23,10 @@ While the model performed well, the dataset used was biased. Future work will in
 - [Tips for Best Training Results](https://github.com/ultralytics/yolov5/wiki/Tips-for-Best-Training-Results)
 - [Mean Average Precision (mAP) Explanation](https://jonathan-hui.medium.com/map-mean-average-precision-for-object-detection-45c121a31173)
 
+## Contributions
+- Kaison Cheung
+- Xuan Ze (Charlie) Li 
+- Yahui Yang
+- Yanni Lu
+
+
